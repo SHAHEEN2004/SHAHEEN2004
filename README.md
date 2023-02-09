@@ -36,3 +36,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheen2004&show_icons=true&locale=en&layout=compact" alt="shaheen2004" /></p>
 <p><img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2e/94/62/2e9462cb6e812987c9c05491b61f887e.gif"></p>
+<p align="left">
+<a href="https://www.leetcode.com/shaheenparveen871215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaheenparveen871215" height="30" width="40" /></a>
+</p>
