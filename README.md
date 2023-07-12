@@ -1,7 +1,9 @@
 ![logo](https://t4.ftcdn.net/jpg/04/63/02/53/360_F_463025395_cbELweZtUMu0xg9Mb2sx3hNujIkXI12w.jpg)
 
 <h1 align="center">Assalamualikum 👋, I'm Shaheen Parveen</h1>
-<h3 align="center">A passionate Front-end Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Front-End+Web+Developer+ (React .JS);Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/premium-muslim-woman-programmer-character-working-front-laptop-vector-illustration_289688-416.jpg">
 
