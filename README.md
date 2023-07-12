@@ -23,14 +23,14 @@
 
 - ⚡ Fun fact **I am like Question Bank...😀**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@shaheen_prav33n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shaheen_prav33n" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaheen-parveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaheen-parveen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shaheenparveen81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shaheenparveen81" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shaheen_parv33n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shaheen_parv33n" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaheenparveen871215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaheenparveen871215" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shaheen_parv33n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shaheen_parv33n" height="30" width="40" /></a>
+<h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats and Activity</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHAHEEN2004&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+<p align="center">      
+<a href="https://github.com/SHAHEEN2004">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SHAHEEN2004&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SHAHEEN2004&theme=gruvbox&hide_border=true" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
