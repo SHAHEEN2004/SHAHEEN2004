@@ -6,7 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Front-End+Web+Developer+ (React .JS);Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/premium-muslim-woman-programmer-character-working-front-laptop-vector-illustration_289688-416.jpg">
+<img align="right" alt="coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105577116/253006566-5d71c25d-d5c0-44a9-b05f-eb0bb4afd785.png">
+
 
 <h2><img src = "https://icons.veryicon.com/png/o/weather/yochie-icons/me-8.png" width ="20"> About</h2>
 
